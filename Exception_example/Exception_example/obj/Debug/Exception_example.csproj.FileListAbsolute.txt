@@ -1,0 +1,9 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\obj\Debug\Exception_example.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\Exception_example.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\Exception_example.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\Exception_example.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\obj\Debug\Exception_example.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\obj\Debug\Exception_example.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\MyLIb.dll
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\MyLIb.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\Exception_example\bin\Debug\NUnit.Framework.dll

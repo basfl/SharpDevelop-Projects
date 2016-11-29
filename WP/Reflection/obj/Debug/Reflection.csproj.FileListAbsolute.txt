@@ -1,0 +1,6 @@
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\bin\Debug\Reflection.exe
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\bin\Debug\Reflection.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\obj\Debug\Reflection.exe
+C:\Users\babak\Documents\SharpDevelop Projects\WP\Reflection\obj\Debug\Reflection.pdb

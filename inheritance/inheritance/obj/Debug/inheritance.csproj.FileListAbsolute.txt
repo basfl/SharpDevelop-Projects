@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\babak\Documents\SharpDevelop Projects\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\babak\Documents\SharpDevelop Projects\inheritance\inheritance\obj\Debug\inheritance.pdb

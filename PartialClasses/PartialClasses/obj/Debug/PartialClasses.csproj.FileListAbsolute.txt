@@ -1,0 +1,6 @@
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.exe
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\bin\Debug\PartialClasses.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.exe
+C:\Users\babak\Documents\SharpDevelop Projects\PartialClasses\PartialClasses\obj\Debug\PartialClasses.pdb

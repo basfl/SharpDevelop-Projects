@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\asp1\asp1\bin\asp1.dll
+C:\Users\babak\Documents\SharpDevelop Projects\asp1\asp1\bin\asp1.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\asp1\asp1\obj\Debug\asp1.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\asp1\asp1\obj\Debug\asp1.dll
+C:\Users\babak\Documents\SharpDevelop Projects\asp1\asp1\obj\Debug\asp1.pdb

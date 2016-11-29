@@ -1,0 +1,6 @@
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\bin\Debug\WP.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\bin\Debug\WP.exe
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\bin\Debug\WP.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\obj\Debug\WP.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\obj\Debug\WP.exe
+C:\Users\babak\Documents\SharpDevelop Projects\WP\WP\obj\Debug\WP.pdb

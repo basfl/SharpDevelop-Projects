@@ -1,0 +1,7 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\obj\Debug\Array2.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\bin\Debug\Array2.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\bin\Debug\Array2.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\obj\Debug\Array2.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\obj\Debug\Array2.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\bin\Debug\myDLL.dll
+C:\Users\babak\Documents\SharpDevelop Projects\Array2\Array2\bin\Debug\myDLL.pdb

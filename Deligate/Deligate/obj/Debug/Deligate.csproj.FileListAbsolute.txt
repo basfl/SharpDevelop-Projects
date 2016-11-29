@@ -1,0 +1,6 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\bin\Debug\Deligate.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\bin\Debug\Deligate.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\bin\Debug\Deligate.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\obj\Debug\Deligate.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\obj\Debug\Deligate.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Deligate\Deligate\obj\Debug\Deligate.pdb

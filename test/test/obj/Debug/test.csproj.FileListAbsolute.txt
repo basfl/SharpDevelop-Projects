@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\test\test\bin\Debug\test.exe
+C:\Users\babak\Documents\SharpDevelop Projects\test\test\bin\Debug\test.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\test\test\obj\Debug\test.exe
+C:\Users\babak\Documents\SharpDevelop Projects\test\test\obj\Debug\test.pdb

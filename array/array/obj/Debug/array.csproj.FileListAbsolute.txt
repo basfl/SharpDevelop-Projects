@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\array\array\bin\Debug\array.exe
+C:\Users\babak\Documents\SharpDevelop Projects\array\array\bin\Debug\array.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\array\array\obj\Debug\array.exe
+C:\Users\babak\Documents\SharpDevelop Projects\array\array\obj\Debug\array.pdb

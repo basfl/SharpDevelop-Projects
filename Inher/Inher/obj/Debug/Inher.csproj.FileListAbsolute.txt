@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Inher\Inher\obj\Debug\Inher.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Inher\Inher\bin\Debug\Inher.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Inher\Inher\bin\Debug\Inher.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Inher\Inher\obj\Debug\Inher.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Inher\Inher\obj\Debug\Inher.pdb

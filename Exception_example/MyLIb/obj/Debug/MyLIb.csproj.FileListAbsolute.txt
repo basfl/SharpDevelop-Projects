@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\MyLIb\bin\Debug\MyLIb.dll
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\MyLIb\bin\Debug\MyLIb.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\MyLIb\obj\Debug\MyLIb.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\MyLIb\obj\Debug\MyLIb.dll
+C:\Users\babak\Documents\SharpDevelop Projects\Exception_example\MyLIb\obj\Debug\MyLIb.pdb

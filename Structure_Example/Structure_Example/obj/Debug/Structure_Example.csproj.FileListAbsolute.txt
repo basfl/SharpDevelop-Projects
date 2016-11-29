@@ -1,0 +1,6 @@
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\obj\Debug\Structure_Example.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\bin\Debug\Structure_Example.exe.config
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\bin\Debug\Structure_Example.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\bin\Debug\Structure_Example.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\obj\Debug\Structure_Example.exe
+C:\Users\babak\Documents\SharpDevelop Projects\Structure_Example\Structure_Example\obj\Debug\Structure_Example.pdb

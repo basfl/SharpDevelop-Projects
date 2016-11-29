@@ -1,0 +1,5 @@
+C:\Users\babak\Documents\SharpDevelop Projects\commen operator\commen operator\bin\Debug\commen operator.exe
+C:\Users\babak\Documents\SharpDevelop Projects\commen operator\commen operator\bin\Debug\commen operator.pdb
+C:\Users\babak\Documents\SharpDevelop Projects\commen operator\commen operator\obj\Debug\commen operator.csprojResolveAssemblyReference.cache
+C:\Users\babak\Documents\SharpDevelop Projects\commen operator\commen operator\obj\Debug\commen operator.exe
+C:\Users\babak\Documents\SharpDevelop Projects\commen operator\commen operator\obj\Debug\commen operator.pdb
